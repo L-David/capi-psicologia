@@ -5,7 +5,7 @@
   "Product": "Producto",
   "Tell us everything": "Cuéntanos todo",
   "Contact": "Contacto",
-  "Do you have any question? Feel free to reach out.": "¿Tienes alguna pregunta? No dude en contactarnos",
+  "Do you have any question? Feel free to reach out.": "¿Tienes alguna pregunta? No dude en contactarnos 229 229 3199",
   "Let's Chat": "Charlemos",
   "Application Security": "Seguridad de la aplicación",
   "Software Principles": "Principios de software",
@@ -24,5 +24,8 @@
   "Name" : "Nombre",
   "Your Name": "Tu nombre",
   "Email" : "Email",
-  "Your Email": "Tu correo electrónico"
+  "Your Email": "Tu correo electrónico",
+  "Contact us": "Contactanos",
+  "Contact Us Block": "<span>¿Necesitas apoyo psicológico o quieres más información sobre nuestros servicios? Estamos aquí para ayudarte.</span><br/> <span> 📱 <a href='tel:+522292293199'>229 229 3199</a></span> <span> ✉️ <a href='mailto:capiasistenciapsi@gmail.com'>capiasistenciapsi@gmail.com</a> </span> <span> ⌚ Horario de atención: [Días y horas] </span> <br/> <span> También puedes llenar el siguiente formulario y nos pondremos en contacto contigo lo antes posible. Tu salud mental es una prioridad. Estamos para acompañarte.</span> ",
+  "CAPI Sic": "Centro de asistencia psicologica individual"
 }

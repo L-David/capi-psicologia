@@ -5,7 +5,7 @@
   "Product": "Product",
   "Tell us everything": "Tell us everything",
   "Contact": "Contact",
-  "Do you have any question? Feel free to reach out.": "Do you have any question? Feel free to reach out.",
+  "Do you have any question? Feel free to reach out.": "Do you have any question? Feel free to reach out. +52 229 229 3199",
   "Let's Chat": "Let's Chat",
   "Application Security": "Application Security",
   "Software Principles": "Software Principles",
@@ -24,5 +24,8 @@
   "Name" : "Name",
   "Your Name": "Your Name",
   "Email" : "Email",
-  "Your Email": "Your Email"
+  "Your Email": "Your Email",
+  "Contact us": "Contact us",
+  "Contact Us Block": "<span>Do you need psychological support or want more information about our services? We are here to help you.</span><br/> <span> 📱 <a href='tel:+522292293199'>229 229 3199</a></span> <span> ✉️ <a href='mailto:capiasistenciapsi@gmail.com'>capiasistenciapsi@gmail.com</a> </span> <span> ⌚ Business hours: [Days and hours] </span> <br/> <span> You can also fill out the following form and we will contact you as soon as possible. Your mental health is a priority. We are here to support you.</span> ",
+  "CAPI Sic": "Individual psychological assistance center"
 }

@@ -2,6 +2,11 @@ import styled from "styled-components";
 
 export const Content = styled("p")`
   margin-top: 1.5rem;
+
+  span {
+    display: block;
+    margin-top 10px;
+  }
 `;
 
 export const Container = styled("div")`
